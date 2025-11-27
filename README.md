@@ -1,25 +1,10 @@
 ## About Me
 
-Hi,
-
-I am a software Developer/Engineer and also an Engineering Manager.
+I am a software Developer/Engineer and an Engineering Manager.
 
 When I started my career as a Software Engineer, my goal was to write code, solve problems, improve processes and share knowledge. 
 
 Now as an Engineering Manager, my focus is to manage, guide and coach engineers to be their best.
-
-<!--
-Here are some ideas to get you started:
-
-- I’m currently working on ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- I’m looking for help with ...
-- Ask me about ...
-- How to reach me: ...
-- Pronouns: ...
-- Fun fact: ...
--->
 
 ## Technical Experience
 
@@ -30,14 +15,18 @@ On the technical side, these are the skills I believe where my expertise is:
 
 I also have knowledge of or have worked with the following:
 
-- Front-End: Javascript, Angular, HTML,CSS
+- Front-End: Javascript, Angular, HTML, CSS
 - CI/CD: Jenkins, Octopus
 - Azure and Cloud systems
 - Docker and Containers
 - Servers and Network
+- Scrum Master and Agile Practices
+- PowerShell, Python, Bash, Linux
 
+What I am learning now:
 
-The X-shaped individual refers to the type of person who is good at working in multiple areas. The term is used to directly refer to those employees who are excellent manager material. The multiple arms of the X represent a person with good interpersonal skills and can work with different people across different industries or areas of a company. They are then able to bring such different groups together (indicated by the cross-section of the X) so that they can collaborate effectively.
+- Mainframe world: IBM z/OS, COBOL, JCL, MVS
+- Electronics, IoT, Firmware hacking
 
 
 ## Work Experience

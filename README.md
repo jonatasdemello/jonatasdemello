@@ -1,61 +1,42 @@
 ## About Me
 
-I am a software Developer/Engineer and an Engineering Manager.
+I am an Engineering Manager with a background in software engineering and a focus on C#, back-end systems, and SQL Server.
 
-When I started my career as a Software Engineer, my goal was to write code, solve problems, improve processes and share knowledge. 
+My career began with writing code, solving technical problems, improving processes, and sharing knowledge.
 
-Now as an Engineering Manager, my focus is to manage, guide and coach engineers to be their best.
+Today, I focus on guiding and coaching engineers, supporting their growth, and helping teams deliver reliable software.
 
 ## Technical Experience
 
-On the technical side, these are the skills I believe where my expertise is:
+My core areas of expertise are:
 
-- C#, APIs and Performance
-- SQL Server Databases
+- Back-end development with C#, including APIs and performance optimization
+- SQL Server and database development, performance tuning
+- Solving problems and getting things done
 
-I also have knowledge of or have worked with the following:
+Additional experience includes:
 
-- Front-End: Javascript, Angular, HTML, CSS
-- CI/CD: Jenkins, Octopus
-- Azure and Cloud systems
-- Docker and Containers
-- Servers and Network
-- Scrum Master and Agile Practices
-- PowerShell, Python, Bash, Linux
+- Front-end development: JavaScript, Angular, HTML, and CSS
+- Delivery practices: Project Management, Scrum, Agile, SDLC
+- Infrastructure: CI/CD, Jenkins, Octopus, Azure, Docker, servers and networking, PowerShell, Python, Bash, and Linux
 
-What I am learning now:
+Currently exploring:
 
-- Mainframe world: IBM z/OS, COBOL, JCL, MVS
-- Electronics, IoT, Firmware hacking
-
+- IBM mainframe technologies: z/OS, COBOL, JCL, and MVS
+- Electronics, IoT, and firmware hacking
 
 ## Work Experience
 
-A little overview of my work history.
+I've been an Engineering Manager at Xello since 2021, following a role as a Software Engineer since 2015.
 
+My experience spans large companies such as Volvo and Siemens, a smaller company, SharpSchool, a government organization, SENAR-PR, and the banking sector at Banco Araucaria S.A.
 
-| Company | Date | Role |
-| ------- | ---- | ---- |
-| Xello | Mar 2020 - Present | Engineering Manager |
-| Clever Devices | Jan 2020 - Mar 2020 | Full Stack Software Engineer |
-| Xello | Jan 2015 - Jan 2020 | Full Stack Software Engineer |
-| SharpSchool | Jun 2014 - Jan 2015 | Software Developer |
-| Volvo IT | Jan 2012 - May 2014 | Software Developer |
-| SENAR-PR | Oct 2004 - Jan 2012 | System Analyst and Web Developer |
-| Grupo Educacional Expoente | Dec 2002 - Oct 2004 | Support Analyst and Web Developer |
-| Siemens |Jun 2001 - Apr 2002 | Support Analyst |
-| Banco Araucaria SA | Sep 2000 - Jun 2001 | Support Analyst |
-| Siemens | May 1996 - Sep 2000 | Support Analyst |
+Across these roles, my strongest technical focus has been back-end development and databases, complemented by experience in front-end development.
 
+## Education
 
-## Education 
+I hold a bachelor's degree in Computer Science, a diploma in Project Management, and a certificate in Cloud Computing.
 
-My formal education.
-
-| Date | Type | Area | Institution |
-| ---- | ---- | ---- | ------ |
-2019 | Certificate |  Cloud Computing | University of Toronto |
-2009 | Diploma |  Project Management | FAE Centro Universitário |
-2007 | Degree |  Bachelor in Computer Science | Universidade Tuiuti do Paraná |
+I continue learning through online courses, seminars, and discussions with technical communities.
 
 
